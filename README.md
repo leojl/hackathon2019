@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hackathon.mpba.mp.br/wp-content/uploads/2019/07/Open-Graph.jpg" width="60%" title="Hackathon MPBA">
+  <img src="https://hackathon.mpba.mp.br/wp-content/uploads/2019/07/Open-Graph.jpg" width="100%" title="Hackathon MPBA">
 </p>
 
 # HACKATHON MPBA 2019
