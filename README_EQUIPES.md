@@ -1,4 +1,4 @@
-## NOME DA EQUIPE
+## Equipe CIT
 **Descrição do projeto desenvolvido:** 
 
 **Linguagens de programação utilizadas:**
