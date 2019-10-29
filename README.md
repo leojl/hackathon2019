@@ -16,9 +16,7 @@ Sede Principal do Ministério Público do Estado da Bahia, localizada na 5ª Ave
 
 ## Programação
 
-Quinta-feira - 07/11 - 13h às 20h, Sexta-feira (08/11) e sábado (09/11) - 8h às 20h
-
-será realizada entre os dias 07 e 09 de novembro, na . Os objetivos do evento são como fomentar o espírito cívico e explorar a utilização de diferentes formas de defesa social com o apoio de soluções de tecnologia da informação.
+Quinta-feira - 07/11 - 13h às 20h, Sexta-feira (08/11) e sábado (09/11) - 8h às 20h.
 
 ## Instruções para
-Ao final do evento, os grupos deverão ter submetido uma Pull Request no repositório Git da Hackathon (https://github.com/mpba/hackathon), contendo todo o código fonte da solução desenvolvida.
+Ao final do evento, os grupos deverão ter submetido uma Pull Request no repositório Git da Hackathon (https://github.com/mpba/hackathon), contendo todo o código fonte da solução desenvolvida. Recomendamos que cada equipe edite o arquivo "README_EQUIPES.md" e faça o commit junto com as soluções.
