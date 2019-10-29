@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj3vpHugsLlAhUXF7kGHbRlDzkQjRx6BAgBEAQ&url=https%3A%2F%2Fhackathon.mpba.mp.br%2F&psig=AOvVaw1cdjuDUd7dF5UX-1xIh5OZ&ust=1572457503587737" width="60%" title="Hackathon Netshoes">
+  <img src="https://hackathon.mpba.mp.br/wp-content/uploads/2019/07/Open-Graph.jpg" width="60%" title="Hackathon MPBA">
 </p>
 
-# HACKATON MPBA 2019
+# HACKATHON MPBA 2019
 
 O Hackathon MPBA 2019 – Maratona de Programação em Prol da Sociedade é um evento no qual os participantes desenvolverão soluções de tecnologia da informação, que serão disponibilizadas à população e aos integrantes do Ministério Público do Estado da Bahia, para que possam ser utilizadas como ferramentas de defesa social.
 
