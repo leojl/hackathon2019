@@ -1,8 +1,6 @@
 ## NOME DA EQUIPE
 **Descrição do projeto desenvolvido:** 
 
-**Apresentação:** - se tiver adicione o link aqui
-
 **Linguagens de programação utilizadas:**
 - Java (Android)
 - C#
