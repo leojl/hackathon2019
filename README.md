@@ -8,7 +8,7 @@ O Hackathon MPBA 2019 – Maratona de Programação em Prol da Sociedade é um e
 
 ## Temas
 
-Esta primeira edição do Hackathon MPBA 2019 e os temas são: DEFESA SOCIAL e subtemas Combate à Criminalidade, Proteção da Infância e Juventude e Combate a Improbidade Administrativa.
+Esta é a primeira edição do Hackathon MPBA 2019 e os temas são: DEFESA SOCIAL e subtemas Combate à Criminalidade, Proteção da Infância e Juventude e Combate a Improbidade Administrativa.
 
 ## Local do evento
 
