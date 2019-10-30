@@ -25,8 +25,8 @@ Ao final do evento, os grupos deverão ter submetido uma *Pull Request* no repos
 
 -Quando estiver logado com o usuário do Git, a equipe ou um membro dela deverá fazer um *Fork* do repositório Git da Hackathon.
 
--Fazer a alteração no arquivo "README_EQUIPES.md" e adicionar um diretório com as soluções desenvolvidas. Esta etapa pode ser feita através da interface gráfica do próprio Github ou, se desejar, poderá clonar o projeto no próprio computador e fazer as modificações.
+-Fazer a alteração no arquivo "README_EQUIPES.md" e adicionar um diretório com as soluções desenvolvidas. Esta etapa pode ser feita através da interface gráfica do próprio Github ou, se desejar, poderá clonar o *fork* no próprio computador e fazer as modificações.
 
--Realizar o *Pull Request*. 
+-Realizar o *Pull Request* do *fork* para o repositório do Hackathon do MPBA.
 
 **Observação:** O título do *Pull Request* deve ser o nome da equipe.
