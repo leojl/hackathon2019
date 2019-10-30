@@ -23,7 +23,7 @@ Ao final do evento, os grupos deverão ter submetido uma *Pull Request* no repos
 
 ### Passos para realizar o *Pull Request*
 
--Quando estiver logado com o usuário do Git, a equipe ou um membro dela deverá fazer um *Fork* do repositório Git da Hackathon.
+-Realizar um *Fork* do repositório Git da Hackathon.
 
 -Fazer a alteração no arquivo "README_EQUIPES.md" e adicionar um diretório com as soluções desenvolvidas. Esta etapa pode ser feita através da interface gráfica do próprio Github ou, se desejar, poderá clonar o *fork* no próprio computador e fazer as modificações.
 
